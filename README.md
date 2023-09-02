@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yo0guitarit&show_icons=true&locale=en" alt="yo0guitarit" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yo0guitarit&" alt="yo0guitarit" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Yo0GuitarIT&theme=onedark-duo&date_format=%5BY%20%5DM%20j" alt="yo0guitarit" /></p>
