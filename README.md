@@ -14,7 +14,7 @@
 
 - 🎸 Guitar Playing & Song Writing
 
-- 🎙️ White Frequency[https://lnk.bio/nMcz] Guitarist
+- 🎙️ [White Frequency](https://lnk.bio/nMcz) Guitarist
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
