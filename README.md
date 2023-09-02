@@ -18,6 +18,13 @@
 
 - 🎙️ [White Frequency](https://lnk.bio/nMcz) Guitarist
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
+</div>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
