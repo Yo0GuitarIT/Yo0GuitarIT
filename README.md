@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yo0guitarit&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yo0guitarit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Yo0GuitarIT&theme=tokyonight&date_format=%5BY%20%5DM%20j" alt="yo0guitarit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Yo0GuitarIT&theme=tokyonight&date_format=%5BY%20%5DM%20j" alt="yo0guitarit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yo0guitarit&show_icons=true&locale=en&theme=tokyonight" alt="yo0guitarit" /></p>
