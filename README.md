@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yo0GuitarIT.Yo0GuitarIT" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Yo0GuitarIT)
 
 <!--
 **Yo0GuitarIT/Yo0GuitarIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
