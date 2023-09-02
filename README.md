@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yo0</h1>
 <div align="center"><img src="https://github.com/Yo0GuitarIT/Yo0GuitarIT/blob/main/1O8A3656-2-Enhanced-NR.jpg" alt="myPhoto"> </div>
-<h3 align="center">A passionate Web Development Learner from Taiwan</h3>
+<h3 align="center">A passionate Web Development Learner & Guitarist from Taiwan</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yo0guitarit&label=Profile%20views&color=0e75b6&style=flat" alt="yo0guitarit" /> </p>
 
