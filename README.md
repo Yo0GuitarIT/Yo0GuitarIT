@@ -18,11 +18,11 @@ I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Freque
 
 ### What I currently Do
 
-- 🔭 I’m currently Living at Tainan.
+- 🔭 I’m currently Living in Tainan.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Music ideas.
 - 📫 How to reach me: yo0.guitar.it@gmail.com.
-- 🎧 Style: Post-rock, Math-Rock, City-Pop, Classic80.
+- 🎧 Style: Post-Rock, Math-Rock, City-Pop, Classic80.
 - ⚡ Fun fact: I watch comic and animation very often.
 
 #### Top Technologies
