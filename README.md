@@ -37,7 +37,7 @@ I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Freque
 
 #### Develop Tools
 
-<img align="left" alt="Vercel" width="26px" src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" />
+<!-- <img align="left" alt="Vercel" width="26px" src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
 
@@ -61,7 +61,9 @@ I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Freque
 
 <img align="left" alt="AWS" width="26px" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
 
-<img align="left" alt="vite.js" width="26px" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" />
+<img align="left" alt="vite.js" width="26px" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" /> -->
+
+<img width="100%" src="https://skillicons.dev/icons?i=vercel,vite,nodejs,html,css,tailwindcss,python,flask,materialui,mysql,git,aws,gcp,c,cpp,raspberrypi" />
 
 <br />
 <br />
