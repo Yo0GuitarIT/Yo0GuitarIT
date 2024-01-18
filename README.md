@@ -35,43 +35,10 @@ I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Freque
 [![Typescript Badge](https://img.shields.io/badge/-TailWind-007acc?style=for-the-badge&labelColor=black&logo=TailwindCss&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&labelColor=black&logo=firebase&logoColor=orange)](#)
 
-#### Develop Tools
+#### Tools
 
-<!-- <img align="left" alt="Vercel" width="26px" src="https://icon.icepanel.io/Technology/png-shadow-512/Vercel.png" />
+<img width="100%" src="https://skillicons.dev/icons?i=html,css,javascript,react,firebase,vercel,vite,nodejs,express,jest,webpack,tailwindcss,materialui,mysql,python,flask,git,github,aws,gcp,c,cpp,raspberrypi,arduino" />
 
-<img align="left" alt="Node.js" width="26px" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
-
-<img align="left" alt="npm" width="26px" src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" />
-
-<img align="left" alt="HTML5" width="26px" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" />
-
-<img align="left" alt="CSS" width="26px" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" />
-
-<img align="left" alt="python" width="26px" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
-
-<img align="left" alt="flask" width="26px" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" />
-
-<img align="left" alt="material UI" width="26px" src="https://icon.icepanel.io/Technology/svg/Material-UI.svg" />
-
-<img align="left" alt="Git" width="26px" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-
-<img align="left" alt="Github" width="26px" src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" />
-
-<img align="left" alt="AWS" width="26px" src="https://icon.icepanel.io/Technology/png-shadow-512/AWS.png" />
-
-<img align="left" alt="vite.js" width="26px" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" /> -->
-
-<img width="100%" src="https://skillicons.dev/icons?i=vercel,vite,nodejs,html,css,tailwindcss,python,flask,materialui,mysql,git,aws,gcp,c,cpp,raspberrypi" />
-
-<br />
-<br />
-
-#### Business
-
-- 📎 : [My Resume/CV](https://drive.google.com/file/d/18xX8zGdSrEmPfON49kqw91CfSlfruSKb/view?pli=1)
-- ✉️ : yo0.guitar.it@gmail.com
 
 #### Coding Status
 <!--START_SECTION:waka-->
