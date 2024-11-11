@@ -37,7 +37,7 @@ I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Freque
 
 #### Tools
 
-<img width="100%" src="https://skillicons.dev/icons?i=html,css,javascript,react,firebase,vercel,vite,nodejs,express,jest,webpack,tailwindcss,materialui,mysql,python,flask,git,github,aws,gcp,c,cpp,cs,raspberrypi,arduino" />
+<img width="100%" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,firebase,vercel,vite,nodejs,express,jest,webpack,tailwindcss,materialui,mysql,python,flask,git,github,aws,gcp,c,cpp,cs,raspberrypi,arduino" />
 
 #### Coding Status
 
