@@ -44,11 +44,11 @@ I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Freque
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       31 hrs 18 mins  ███████████████████████▓░   94.17 %
-TypeScript       1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-JSON             47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+JavaScript       31 hrs 4 mins   ██████████████████████░░░   88.30 %
+Markdown         2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+TypeScript       1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JSON             50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
