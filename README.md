@@ -4,7 +4,8 @@
 
 🤘 Check out my New Portfolio [Linktree.](https://linktr.ee/yo0.guitar.it)
 
-I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Frequency](https://lnk.bio/nMcz). I Spend most of my time coding outstanding projects or practicing the Guitar 🎸.
+I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Frequency](https://lnk.bio/nMcz). 
+I Spend most of my time coding outstanding projects or practicing the Guitar 🎸.
 
 📪 Reach me out!
 
