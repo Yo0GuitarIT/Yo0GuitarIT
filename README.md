@@ -4,7 +4,7 @@
 
 🤘 Check out my New Portfolio [Linktree.](https://linktr.ee/yo0.guitar.it)
 
-I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Frequency](https://lnk.bio/nMcz). 
+I'm Yu-Ling Chen, a Frontend Developer and I play in a band called [White Frequency](https://lnk.bio/nMcz).
 I Spend most of my time coding outstanding projects or practicing the Guitar 🎸.
 
 📪 Reach me out!
@@ -15,32 +15,19 @@ I Spend most of my time coding outstanding projects or practicing the Guitar �
 [![Instagram Badge](https://img.shields.io/badge/%40yo0__36563-purple?style=flat&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fyo0_36563%2F)](https://www.instagram.com/yo0_36563/)
 [![Gmail Badge](https://img.shields.io/badge/yo0.guitar.it-orange?style=flat&logo=gmail&logoColor=white)](mailto:yo0.guitar.it@gmail.com)
 
-<!-- TODO: Add last video link -->
-
 ### What I currently Do
 
-- 🔭 I’m currently Living in Tainan.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+-  🎸 Code with logic, Play with soul.
 - 🤔 I’m looking for help with Outstanding Music ideas.
 - 📫 How to reach me: yo0.guitar.it@gmail.com.
-- 🎧 Style: Post-Rock, Math-Rock, City-Pop, Classic80.
+- 🎧 Style: Post-Rock, Math-Rock, City-Pop, Classic 80.
 - ⚡ Fun fact: I watch comic and animation very often.
 
-#### Top Technologies
+### Tools
 
-<!-- TODO: Make technologies links takes you to repositories -->
+<img width="100%" src="https://skillicons.dev/icons?i=apple,linux,nodejs,react,next,remix,astro,javascript,typescript,markdown,vite,tailwind,materialui,prisma,firebase,postgresql,git,github,gitlab,docker,npm,pnpm,vscode,vscodium,neovim,vim,jest,vitest" />
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js Badge](https://img.shields.io/badge/-Next.js-gray?style=for-the-badge&labelColor=black&logo=next.js&logoColor=gray)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-TailWind-007acc?style=for-the-badge&labelColor=black&logo=TailwindCss&logoColor=007acc)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&labelColor=black&logo=firebase&logoColor=orange)](#)
-
-#### Tools
-
-<img width="100%" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,firebase,vercel,vite,nodejs,express,jest,webpack,tailwindcss,materialui,mysql,python,flask,git,github,aws,gcp,c,cpp,cs,raspberrypi,arduino" />
-
-#### Coding Status
+### Coding Status
 
 <!--START_SECTION:waka-->
 
@@ -54,10 +41,11 @@ TSConfig     5 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### Github Status
+### Github Status
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yo0guitarit&show_icons=true&locale=en&theme=tokyonight" alt="yo0guitarit" />
-
-#### 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo0guitarit&layout=compact&theme=tokyonight" alt="yo0guitarit"/>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=118150842" target="_blank" style="display: block" align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=118150842&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Yo0GuitarIT" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=118150842&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
