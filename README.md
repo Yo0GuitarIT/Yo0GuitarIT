@@ -41,7 +41,7 @@ TSConfig     5 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### Github Status
+### Github Status
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=118150842" target="_blank" style="display: block" align="left">
   <picture>
