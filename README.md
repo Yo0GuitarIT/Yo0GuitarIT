@@ -32,7 +32,11 @@ I Spend most of my time coding outstanding projects or practicing the Guitar �
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua          12 mins               ████████████████░░░░░░░░░   64.30 %
+TypeScript   5 mins                ███████░░░░░░░░░░░░░░░░░░   28.62 %
+Markdown     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+JSON         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+netrw        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
