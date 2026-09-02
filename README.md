@@ -32,7 +32,10 @@ I Spend most of my time coding outstanding projects or practicing the Guitar �
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 min                 █████████████████████████   100.00 %
+JavaScript   25 mins               ███████████████▒░░░░░░░░░   61.56 %
+Go           10 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
+Docker       5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+JSON         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
