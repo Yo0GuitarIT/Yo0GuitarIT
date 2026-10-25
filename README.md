@@ -32,11 +32,11 @@ I Spend most of my time coding outstanding projects or practicing the Guitar �
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   16 hrs 50 mins        ████████████████▒░░░░░░░░   65.63 %
-Markdown     3 hrs 14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-TypeScript   2 hrs 3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-Other        1 hr 25 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-JSON         55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript   16 hrs 51 mins        ████████████████▒░░░░░░░░   64.70 %
+Markdown     3 hrs 15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+TypeScript   2 hrs 3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Other        1 hr 25 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+JSON         55 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
